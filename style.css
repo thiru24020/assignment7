@@ -1,0 +1,30 @@
+h1{
+    text-align: center;
+    font-family:'Courier New';
+    font-weight: 600;
+    font-size: 50px;
+}
+body{
+    background-color: yellow;
+}
+.line{
+    border-color: red;
+}
+ul{
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: left ;
+}
+.register{
+  margin-top: 80px;
+}
+.text{
+    width: 800px;
+}
+header{
+    display: flex;
+    justify-content: center;
+    float: left;
+}
